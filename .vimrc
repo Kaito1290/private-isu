@@ -1,0 +1,9 @@
+set number
+set fileencodings=utf-8,cp932
+set cursorline
+syntax enable
+set hlsearch
+set incsearch
+set smartindent
+set laststatus=2
+set wildmenu
